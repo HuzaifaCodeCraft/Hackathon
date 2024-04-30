@@ -60,7 +60,7 @@
     color:#F77D0A;
     font-size: 70px !important;
 }
-[7:47 AM, 2/17/2024] Hashir Duet: *{
+ *{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -74,6 +74,10 @@
 
    
 }
+
+
+
+
 
 .nav-bar{
     position: sticky;
@@ -121,4 +125,4 @@
     font-weight: bolder;
     color:#F77D0A;
     font-size: 70px !important;
-}
+}   
